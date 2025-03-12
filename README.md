@@ -1,4 +1,4 @@
-# Sales
+# Retail_Store_Inventory
 
 ## Table of Contents
 - [Project Overview](#project-overview)
