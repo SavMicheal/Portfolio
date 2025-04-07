@@ -93,5 +93,3 @@ Group By RollUp (Category, Region, Weather_Condition, Seasonality)
 ### Recommendations
 - More investment should be allocated in the furniture category to maximize revenue
 - Lesser discount should be given to customer
-
-# Python Project 1
